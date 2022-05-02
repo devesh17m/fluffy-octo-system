@@ -178,6 +178,7 @@ z-index: -1;
 }
 .image_about{
     height: 70vh;
+   
 }
 
 .description{
@@ -727,8 +728,8 @@ z-index: -1;
         border: 0px;
     }
     .image_about{
-        margin-left: -20%;
-        height: 23vh;
+        margin-left: 1%;
+        height: 17vh;
     }
     .heading_about{
         font-family: pacifico;
